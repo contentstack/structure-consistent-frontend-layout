@@ -16,7 +16,7 @@ We have created an in-depth tutorial on how you can create a sitemap for a conte
 
 ## Documentation
 
-Read Contentstack [docs](https://www.contentstack.com/docs/)
+Read Tutorial [docs](https://www.contentstack.com/docs/developers/how-to-guides/creating-consistent-website-layouts-using-express-and-contentstack)
 
 
 
