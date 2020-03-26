@@ -1,14 +1,12 @@
-# Structure Consistent Frontend Layout
+[![Contentstack](https://www.contentstack.com/docs/static/images/contentstack.png)](https://www.contentstack.com/)
+
+## Structure Consistent Frontend Layout
+
+Contentstack is a headless CMS with an API-first approach that puts content at the centre. It is designed to simplify the process of publication by separating code from content.
 
 Many websites have a common layout that provides a consistent user interface as users navigate from one page to another. This layout usually includes elements such as the site header, navigation, and footer.
 
-This leads to a common notion, especially with ones who have worked with traditional content management systems, that everything appearing on a page is required to be fetched from an entry, with references to common UI elements.
-
 We have created a sample website that demonstrate how you can achieve this. The example app is created using node.js. Download the code and read our step-by-step guide to learn more about it.
-
-## About Contentstack
-
-Contentstack is a headless CMS with an API-first approach that puts content at the centre. It is designed to simplify the process of publication by separating code from content.
 
 ## Tutorial
 
