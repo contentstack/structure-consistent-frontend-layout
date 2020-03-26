@@ -10,7 +10,7 @@ We have created a sample website that demonstrate how you can achieve this. The 
 
 ## Tutorial
 
-We have created an in-depth tutorial on how you can create a sitemap for a contentstack powered website.We have built an example app using Express.js to help you learn more.
+We have created a sample website that demonstrate how you can achieve this. The example app is created using node.js. Download the code and read our step-by-step guide to learn more about it.
 
 ![Screenshot from 2020-03-11 18-02-36](https://user-images.githubusercontent.com/29656920/77664563-723ad780-6fa4-11ea-85f2-1332888cdda8.png)
 
