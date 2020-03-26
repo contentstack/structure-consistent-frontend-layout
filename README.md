@@ -1,1 +1,1 @@
-# structure-consistent-frontend-layout
+# Structure Consistent Frontend Layout
